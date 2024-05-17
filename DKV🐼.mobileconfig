@@ -66,13 +66,13 @@
 <key>PayloadDisplayName</key>
 <string>Chặn thu hồi ( Không chặn ADS ) ✅</string>
 <key>PayloadIdentifier</key>
-<string>khoindvn.bio.link.profile</string>
+<string>ayo.so/khanhvy.profile</string>
 <key>PayloadOrganization</key>
 <string> Duong Khanh Vy💗 </string>
 <key>PayloadType</key>
 <string>com.apple.dnsSettings.managed</string>
 <key>PayloadUUID</key>
-<string>khoindvn.bio.link</string>
+<string>ayo.so/khanhvy</string>
 <key>PayloadVersion</key>
 <integer>1</integer>
 </dict>
